@@ -8,3 +8,6 @@ O projeto foi criado em 2017 para receber e apresentar os dados de uma horta equ
 
 # O projeto foi apresentado no mesmo ano no Arduino Day em Salvador.
 <img src="https://raw.githubusercontent.com/valdiney/HortaIndoor/master/img/slide/lai2.jpg"/>
+
+# Interface atual do sistema
+<img src="https://raw.githubusercontent.com/valdiney/HortaIndoor/master/img/horta.png"/>
