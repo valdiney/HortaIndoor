@@ -1,0 +1,63 @@
+body {
+	background:#e1e2df;
+}
+html, body {
+	height:100%;
+}
+.jumbotron {
+	color:#4abea8;
+	font-family: 'Bree Serif', serif;
+	border-radius:0;
+	background-image:linear-gradient(to right, #788eab, #4abea8);
+}
+.titulo-jumbotron {
+	background-image:linear-gradient(to right, #272e5c, #4abea8);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.card h3 {
+	color:#4abea8;
+	background-image:linear-gradient(to right, #788eab, #4abea8);
+	-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top:10px;
+    text-align:center;
+}
+.card-body p {
+	font-size:15px;
+	color:#333333;
+}
+.card-body span {
+	opacity:0.60;
+}
+#rodape {
+	background:white;
+    bottom:0;
+}
+.body {
+	min-height:100%;
+    position:relative;
+    overflow:hidden;
+}
+.c {
+	width:100%;
+	padding:10px;
+	border-radius:3px;
+	color:white;
+	background-image:linear-gradient(to right, #2a3c66, #4abea8);
+}
+.depoimentos {
+	background-image:linear-gradient(to right, #788eab, #4abea8);
+	margin-top:20px
+}
+.depoimentos .card {
+	box-shadow:#4a898d 1px 1px 2px;
+}
+.img-depoimento {
+	float:left;
+	margin-right:20px;
+}
+
+.card {
+	margin-top:20px;
+}
